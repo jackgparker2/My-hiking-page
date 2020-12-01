@@ -1,8 +1,8 @@
 # My-hiking-page
 A list of my favorite places to hike
 
-1. Eagle Bluffs
-2. MKT Trail
-3. The pinnacles
-4. The Katy Trail
-5. Mount Everest 
+1. Grand Canyon
+2. Camelback Mountain
+3. Eagle Bluffs
+4. The pinnacles
+5. The Katy Trail  
