@@ -2,7 +2,7 @@
 ## A list of my favorite places to hike
 
 1. Grand Canyon
-2. Camelback Mountain
+2. [Camelback Mountain](http://climbcamelback.com/)
 3. Eagle Bluffs
 4. The pinnacles
 5. The Katy Trail  
