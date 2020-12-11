@@ -1,5 +1,5 @@
-# My-hiking-page
-A list of my favorite places to hike
+# My-hiking-page 
+## A list of my favorite places to hike
 
 1. Grand Canyon
 2. Camelback Mountain
